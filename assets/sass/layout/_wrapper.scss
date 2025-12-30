@@ -33,4 +33,10 @@
 		@include breakpoint('<=xsmall') {
 			padding: 1rem;
 		}
+ 
+                display: flex !important;
+                flex-direction: column !important;
+                min-height: 100vh !important;
+                justify-content: space-between !important;
+                }               
 	}
