@@ -40,8 +40,8 @@ Original development from **Dimension by HTML5 UP**:
 - **Icons**: [Font Awesome](https://fontawesome.com)
 - **Tools**:
   - [Pixi](https://prefix-dev.github.io/pixi/v0.62.2/)
-  - [Python](https://www.python.org/)
   - [Nano](https://www.nano-editor.org/)
+  - [Python](https://www.python.org/)
   - [Node.js/npm](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager)
   - [VS Code](https://code.visualstudio.com/)
 
