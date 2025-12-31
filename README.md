@@ -38,10 +38,10 @@ Original development from **Dimension by HTML5 UP**:
 
 - **Demo Images**: [Unsplash](https://unsplash.com)
 - **Icons**: [Font Awesome](https://fontawesome.com)
-- **Other Tools**:
-  - [jQuery](https://jquery.com)
-  - [Responsive Tools](https://github.com/ajlkn/responsive-tools)
-  - [GitHub Docs for CLI](https://docs.github.com/en)
-  - [Git Docs](https://git-scm.com/doc)
+- **Tools**:
+  - [Pixi](https://prefix-dev.github.io/pixi/v0.62.2/)
+  - [Python](https://www.python.org/)
+  - [Nano](https://www.nano-editor.org/)
+  - [VS Code](https://code.visualstudio.com/)
 
 ---
